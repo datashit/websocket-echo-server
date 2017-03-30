@@ -1,2 +1,2 @@
 # websocket-echo-server
-Websocket echo server example for embedded
+Websocket echo server example for  embedded system.
